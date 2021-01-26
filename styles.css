@@ -1,0 +1,19 @@
+body {
+
+}
+
+.i1 {
+  height: 10px;
+  position: absolute;
+  left: 152;
+  bottom: 1;
+}
+
+body,html{
+  height:100%;
+  padding: 40px;
+  background: blue;
+}
+div.height30{
+  background: red;
+  height:30%;
